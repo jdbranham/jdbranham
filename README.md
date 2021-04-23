@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Sprout - an OSS Java app framework like Ruby on Rails
 - 🤔 I’m looking for help with Sprout 😅
 - 💬 Ask me about anything related to development
-- 📫 How to reach me: GitHub issue, LinkedIn, or Slack [Apache, Gigster, AirByte, Savantly, and others]
+- 📫 How to reach me: GitHub issue, LinkedIn, or Slack [Grafana, Apache, Gigster, AirByte, Savantly, and others]
