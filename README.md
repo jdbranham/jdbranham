@@ -1,8 +1,10 @@
 # Professional Geek
 
-- 🔭 I’m currently working on [Sprout](https://github.com/savantly-net/sprout-platform) , a Dapp, and big data ELT/Lakehouse
-- 🌱 I’m currently learning GoLang and data lake architecture
-- 👯 I’m looking to collaborate on Sprout - an OSS Java app framework like Ruby on Rails
-- 🤔 I’m looking for help with Sprout 😅
+- 🔭 I’m currently working on a new Enterprise Portal platform, a new Business Rules Engine, and ML & BI automation.
+- 🌱 I’m currently learning GoLang 
+- 👯 I’m looking to collaborate on process automation.
+- 🤔 I’m looking for help with a game that uses blockchain and LLMs
 - 💬 Ask me about anything related to development
 - 📫 How to reach me: GitHub issue, LinkedIn, or Slack [Grafana, Apache, Gigster, AirByte, Savantly, and others]
+
+https://savantly.net
